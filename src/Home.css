@@ -1,0 +1,63 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #4f748c;
+    height: 40px;
+    padding: 2px;
+    color: white;
+}
+
+.nav {
+    height: 100vh;
+}
+
+.Home-content {
+    background-color: #f0f2f5; /*#f0f2f5#f5f6f8;*/
+    padding: 15px;
+}
+
+.Scenario-select {
+    padding: 15px;
+    margin: 0px;
+}
+
+.sc-search {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding-left:20px;
+    width: 96%;
+    height: 10%;
+    border-radius: 10px;
+    background-color: white;
+}
+.input {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 96%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.sc-input {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding-left: 20px;
+    width: 96%;
+    height: 15%;
+    border-radius: 10px;
+    background-color: white;
+}
+.sc-result {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 96%;
+    height: 45%;
+    border-radius: 10px;
+    background-color: white;
+}
